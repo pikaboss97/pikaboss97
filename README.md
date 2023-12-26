@@ -5,7 +5,7 @@ Semi Senior Backend Developer
 ---------------------------
 
 * 🌍  I'm based in Peru
-* ✉️  You can contact me at [diego.vega097@gmail.com](mailto:dieego.vega097@gmail.com)
+* ✉️  You can contact me at [diego.vega097@gmail.com](mailto:diego.vega097@gmail.com)
 * 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on any project that helps the community
 
@@ -36,12 +36,12 @@ src="https://img.shields.io/github/followers/pikaboss97?logo=github&style=for-th
 
 ### Socials
 
-<p align="left"> <a href="https://www.codepen.io/kevoj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/kevoj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kevoj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/pikaboss97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/diego-vega-mejia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/kevoj"><img src="https://github-readme-stats.vercel.app/api?username=kevoj&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kevoj's GitHub stats" /></a>
+<a href="http://www.github.com/pikaboss97"><img src="https://github-readme-stats.vercel.app/api?username=pikaboss97&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pikaboss97's GitHub stats" /></a>
 
-<a href="http://www.github.com/kevoj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kevoj&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/pikaboss97"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pikaboss97&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
